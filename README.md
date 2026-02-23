@@ -5,7 +5,6 @@
 **Framework Style:** MVC Architecture  
 **Version:** Includes Incident Assignment & Update Features  
 
----
 
 ## 🌟 Overview
 
